@@ -1,0 +1,14 @@
+<head>
+    <meta charset="UTF-8">
+    <met a http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Description, keywords, author... -->
+    <meta name="description" content="HTML, CSS, JS, and others code tricks">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Python, R, DataScience">
+    <meta name="author" content="Luis Gustavo Pianna">
+    <!-- Icon font -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- CSS files -->
+    <link rel="stylesheet" href="codelibrary-index-style.css">
+    <title>Code Library</title>
+</head>
