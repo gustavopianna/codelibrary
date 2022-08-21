@@ -1,0 +1,46 @@
+    <!-- BODY --> 
+    <header class="header">
+        <div class="flex">
+            <nav class="menu">
+                <a href="#id-section1">Home</a>
+                <a href="#id-section2">Quem sou</a>
+                <a href="#id-section3">Projetos</a>
+                <a href="#id-footer">Contato</a>
+            </nav>
+        </div>
+    </header>
+    
+    
+    
+    <!-- CSS --> 
+    .header {
+    height: 60px;
+    width: 100vw;
+    
+    position: sticky;    <--
+    top: 0;
+        
+    border-bottom: 1px solid rgba(255,255,255,0.2);    <--
+    backdrop-filter: blur(30px);
+    
+    z-index: 999;
+    background-color: var(--header-color);
+    }
+
+    .menu {
+    margin-left: 45%;
+    width: 60%;
+    height: 100%;
+    }
+
+    .header a {
+    height: 100%;
+    line-height: 60px;
+    align-items: center;
+    padding: 20px 2vw;
+    text-transform: uppercase;
+    color: var(--primary-green);
+    }
+    .header a:hover {
+    background-color: rgba(0,0,0,.1);
+    }
